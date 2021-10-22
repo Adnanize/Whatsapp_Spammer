@@ -1,0 +1,11 @@
+Welcome to Adnanize whatsapp spammer
+Date: 22-5-2021
+Description: Whatsapp spammer
+
+-If the messages are not typing do the following
+Make sure to run the code and then select your victim (With his/her permission) and then press with
+your mouse on the text field
+
+-If the message is not typing in the textbox, make sure to give it at max a minute. Once
+you have written the message that you want to spam with the program gives you time to launch
+the browser and get yourself ready
